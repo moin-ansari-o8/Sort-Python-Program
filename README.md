@@ -101,6 +101,3 @@ Developed by **Moin Ansari**. Feel free to connect with me on [LinkedIn](https:/
 
 ---
 
-## Links
-
-- GitHub Repository: [Sort-Python-Program](https://github.com/moin-ansari-o8/Sort-Python-Program)
